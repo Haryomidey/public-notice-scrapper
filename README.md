@@ -30,7 +30,7 @@ cd public-notices-scraper
 
 Run the script with:
 
-python scraper.py
+python main.py
 The script will:
 
 Open Chrome and navigate to the specified website.
